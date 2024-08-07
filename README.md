@@ -16,7 +16,7 @@
 
 - [x] Bearer Auth 别的不加 先加上验证
 
-- [ ] user/info 用户信息
+- [x] user/info 用户信息
 
 - [ ] user/best 单曲最佳
 
